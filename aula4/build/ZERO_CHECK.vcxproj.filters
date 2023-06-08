@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\35193\Desktop\Universidade\CG_Code\aula4\build\CMakeFiles\4e448cd64fc01a27d98bf71d99b9555a\generate.stamvertice_array.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2ACC09EF-DBAD-38AF-9349-B31455F1CF82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\35193\DESKTOP\UNIVERSIDADE\CG_CODE\AULA13\BUILD\CMAKEFILES\9210EDA3FD2812D0C23799AF27699F10\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/35193/Desktop/Universidade/CG_Code/aula13 -BC:/Users/35193/Desktop/Universidade/CG_Code/aula13/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/35193/Desktop/Universidade/CG_Code/aula13/build/class11.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\35193\Desktop\Universidade\CG_Code\aula7\main.cpp(98,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\35193\Desktop\Universidade\CG_Code\aula7\main.cpp(343,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\35193\Desktop\Universidade\CG_Code\aula7\main.cpp(345,21): warning C4018: '<': incompatibilidade de signed/unsigned
+  class6.vcxproj -> C:\Users\35193\Desktop\Universidade\CG_Code\aula7\build\Debug\class6.exe
